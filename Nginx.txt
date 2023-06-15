@@ -12,3 +12,5 @@ sudo ufw allow 'Nginx HTTP'
 
 sudo ufw status
 
+nginx
+
